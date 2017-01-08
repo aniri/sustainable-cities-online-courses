@@ -9,6 +9,8 @@ My path to a free self-taught education in Smart Cities!
 
 ## About
 
+I looked online for free MOOCs that would offer a strong background for anyone interested in Smart cities. The structure is inspired from [The Dual Master’s in Sustainable Smart Cities](http://www.staffs.ac.uk/postgraduate/smartcities/programmedetails/) from the University of Alabama at Birmingham and Staffordshire University. I will continue to improve the list as I find new courses.
+
 ## Preparation
 
 A great MOOC that gives you easy access to the invaluable learning techniques used by experts in art, music, literature, math, science, sports, and many other disciplines. 
@@ -26,3 +28,27 @@ Also I think MOOCs for learning how to use solution-based journalism to impel po
 
 - [Introduction to Sustainability](https://www.coursera.org/learn/sustainability/) by University of Illinois at Urbana-Champaign - 8 weeks of study, 8-10 hours/week
 - [The Age of Sustainable Development](https://www.coursera.org/learn/sustainable-development) by Columbia University - 14 weeks of study, 2 hours of lectures per module
+
+### Introduction to Sustainable Smart Cities
+
+- [Smart cities](https://www.futurelearn.com/courses/smart-cities) byt The Open University - 6 weeks of study, 3 hours/week
+- [Greening the Economy: Sustainable Cities](https://www.coursera.org/learn/gte-sustainable-cities/) by Lund University - 5 weeks of study, 5 hours/week
+- [Sustainable Urban Development](https://courses.edx.org/courses/course-v1:DelftWageningenX+AMS.URB.1x+1T2016/info) by Delft University of Technology - 7 weeks of study
+- [Citizen Engagement: A Game Changer for Development](https://www.edx.org/course/citizen-engagement-game-changer-wbgx-ce01x) by World Bank Group  - 5 weeks of study, 2-4 hours/week 
+
+### Low Carbon and Renewable Energy Systems 
+  
+### Managing Natural Resources and Sustainable Smart Cities 
+
+### Green Infrastructure and Transportation
+
+### Green Buildings
+ 
+### Health & Liveability
+
+### Smart Technologies for Cities & Buildings
+
+### Big Data & Smart Cities
+  
+### Research Methods & Project Planning
+
