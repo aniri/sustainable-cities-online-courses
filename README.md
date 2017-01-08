@@ -28,6 +28,7 @@ Also I think MOOCs for learning how to use solution-based journalism to impel po
 
 - [Introduction to Sustainability](https://www.coursera.org/learn/sustainability/) by University of Illinois at Urbana-Champaign - 8 weeks of study, 8-10 hours/week
 - [The Age of Sustainable Development](https://www.coursera.org/learn/sustainable-development) by Columbia University - 14 weeks of study, 2 hours of lectures per module
+- [Greening the Economy: Lessons from Scandinavia](https://www.coursera.org/learn/greening-the-economy) by Lund University - 5 weeks of study, 5-8 hours/week :pizza:
 
 ### Introduction to Sustainable Smart Cities
 
