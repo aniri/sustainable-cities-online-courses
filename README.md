@@ -1,5 +1,5 @@
 # smart-cities-online-courses
-My path to a free self-taught education in Smart Cities!
+My path to a free self-taught education in Smart Cities! *I will be adding pizzas to the ones I finish to track my progress.* :relaxed:
 
 ## Contents
 
@@ -15,7 +15,7 @@ I looked online for free MOOCs that would offer a strong background for anyone i
 
 A great MOOC that gives you easy access to the invaluable learning techniques used by experts in art, music, literature, math, science, sports, and many other disciplines. 
 
-- [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+- [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) :pizza:
 
 Also I think MOOCs for learning how to use solution-based journalism to impel positive social change would also prove useful :)
 
@@ -31,7 +31,7 @@ Also I think MOOCs for learning how to use solution-based journalism to impel po
 
 ### Introduction to Sustainable Smart Cities
 
-- [Smart cities](https://www.futurelearn.com/courses/smart-cities) byt The Open University - 6 weeks of study, 3 hours/week
+- [Smart cities](https://www.futurelearn.com/courses/smart-cities) byt The Open University - 6 weeks of study, 3 hours/week :pizza:
 - [Greening the Economy: Sustainable Cities](https://www.coursera.org/learn/gte-sustainable-cities/) by Lund University - 5 weeks of study, 5 hours/week
 - [Sustainable Urban Development](https://courses.edx.org/courses/course-v1:DelftWageningenX+AMS.URB.1x+1T2016/info) by Delft University of Technology - 7 weeks of study
 - [Citizen Engagement: A Game Changer for Development](https://www.edx.org/course/citizen-engagement-game-changer-wbgx-ce01x) by World Bank Group  - 5 weeks of study, 2-4 hours/week 
