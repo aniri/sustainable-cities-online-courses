@@ -55,7 +55,9 @@ Also learning how to research and present an effective and persuasive position p
 - [Sustainable Agricultural Land Management](https://www.coursera.org/learn/sustainable-agriculture) by University of Florida - 8 weeks of study
 - [Global Environmental Management](https://www.coursera.org/learn/global-environmental-management) by Technical University of Denmark (DTU) - 5 weeks of study
 - [Global Warming I: The Science and Modeling of Climate Change](https://www.coursera.org/learn/global-warming) by The University of Chicago - 12 weeks of study
+
 #### Optional
+
 - [Climate Change Mitigation in Developing Countries](https://www.coursera.org/learn/climate-change-mitigation) by University of Cape Town - 6 weeks of study, 1-3 hours/week
 - [Natural Attenuation of Groundwater Contaminants: New Paradigms, Technologies, and Applications](https://www.coursera.org/learn/natural-attenuation-of-groundwater-contaminants) by Rice University - 9 weeks of study
 - [Shale gas and fracking](https://www.futurelearn.com/courses/shale-gas/2/todo/1576) by the University of Nottingham - 4 weeks of study
