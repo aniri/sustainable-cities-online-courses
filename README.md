@@ -8,6 +8,7 @@ My path to a free self-taught education in Smart Cities! *I will be adding pizza
 - [Courses](#courses)
 - [Books](#books)
 - [Articles](#articles)
+- [Capstone Project](#project)
 
 ## About
 
@@ -121,3 +122,9 @@ Also learning how to research and present an effective and persuasive position p
 ## Articles
 
 - [Co-Creating the Cities of the Future](http://www.mdpi.com/1424-8220/16/11/1971)
+
+## Capstone Project
+
+List of datasets for projects:
+
+- [on kaggle.com](https://www.kaggle.com/datasets?sortBy=relevance&group=featured&search=city)
