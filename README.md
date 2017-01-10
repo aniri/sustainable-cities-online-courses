@@ -6,6 +6,8 @@ My path to a free self-taught education in Smart Cities! *I will be adding pizza
 - [About](#about)
 - [Preparation](#preparation)
 - [Courses](#courses)
+- [Books](#books)
+- [Articles](#articles)
 
 ## About
 
@@ -52,12 +54,13 @@ Also learning how to research and present an effective and persuasive position p
 ### Managing Natural Resources and Sustainable Smart Cities 
 
 - [Water Resources Management and Policy](https://www.coursera.org/learn/water-management) by University of Geneva - 5 weeks of study, 1-3 hours/week
-- [Sustainable Agricultural Land Management](https://www.coursera.org/learn/sustainable-agriculture) by University of Florida - 8 weeks of study
+- [Urban Water - Innovations for Environmental Sustainability](https://www.edx.org/course/urban-water-innovations-environmental-ubcx-water201x#.VPXUIVPF9vo) by University of British Columbia -  6 weeks of study, 3 - 4 hours/week
 - [Global Environmental Management](https://www.coursera.org/learn/global-environmental-management) by Technical University of Denmark (DTU) - 5 weeks of study
 - [Global Warming I: The Science and Modeling of Climate Change](https://www.coursera.org/learn/global-warming) by The University of Chicago - 12 weeks of study
 
 #### Optional
 
+- [Sustainable Agricultural Land Management](https://www.coursera.org/learn/sustainable-agriculture) by University of Florida - 8 weeks of study
 - [Climate Change Mitigation in Developing Countries](https://www.coursera.org/learn/climate-change-mitigation) by University of Cape Town - 6 weeks of study, 1-3 hours/week
 - [Natural Attenuation of Groundwater Contaminants: New Paradigms, Technologies, and Applications](https://www.coursera.org/learn/natural-attenuation-of-groundwater-contaminants) by Rice University - 9 weeks of study
 - [Shale gas and fracking](https://www.futurelearn.com/courses/shale-gas/2/todo/1576) by the University of Nottingham - 4 weeks of study
@@ -70,19 +73,49 @@ Also learning how to research and present an effective and persuasive position p
 - [Municipal Solid Waste Management in Developing Countries](https://www.coursera.org/learn/solid-waste-management) by École Polytechnique Fédérale de Lausanne - 5 weeks of study, 1-2 hours/week
 
 ### Green Buildings
+
+- [Resilient Architecture Research](https://www.ooed.org/learn/resilient-architecture-research-fall-2014) by Open Online Academy
  
 ### Health & Liveability
 
 - [Community Change in Public Health](https://www.coursera.org/learn/community-public-health) by Johns Hopkins University - 5 weeks of study, 1-3 hours/week
+- [Climate Change and Health](https://iversity.org/en/courses/climate-change-and-health) by Heidelberg University - 5 weeks of study
+
+#### Optional
+
+- [Sustainable Food Production Through Livestock Health Management](https://www.coursera.org/learn/livestock-farming) by University of Illinois at Urbana-Champaign - 6 weeks of study; 5-7 hours/week
 
 ### Smart Technologies for Cities & Buildings
 
+- [Introduction to Metrics for Smart Cities](https://www.edx.org/course/introduction-metrics-smart-cities-ieeex-scmtx-1x#.VPXTolPF9vo) by IEEE - 4 weeks of study, 5 - 7 hours/week
+- [Future Cities](https://www.edx.org/course/future-cities-ethx-fc-01x-2#.VPXTtFPF9vo) by ETH Zurich  - 10 weeks of study, 3 hours per week 
+- [Internet of Things: How did we get here?](https://www.coursera.org/learn/internet-of-things-history) by University of California, San Diego - 2 weeks of study, 2-3 hours/week
+- [A developer's guide to the Internet of Things ](https://www.coursera.org/learn/developer-iot/home/welcome) by IBM - 4 weeks of study
+
 ### Big Data & Smart Cities
+  
+- [Introduction to Big Data](https://www.coursera.org/learn/big-data-introduction) by University of California, San Diego - 3 weeks of study, 5-6 hours/week
+- [A Crash Course in Data Science](https://www.coursera.org/learn/data-science-course) by Johns Hopkins University - 1 week of study, 4-6 hours
+- [Fundamentals of GIS](https://www.coursera.org/learn/gis) by University of California, Davis - 4 weeks of study, 3-5 hours/week
+- [Cloud Computing Concepts, Part 1](https://www.coursera.org/learn/cloud-computing) by University of Illinois at Urbana-Champaign - 5 weeks of study 
+
+#### Optional
+
+- [Cloud Computing Concepts: Part 2](https://www.coursera.org/learn/cloud-computing-2) by University of Illinois at Urbana-Champaign - 5 weeks of study
+- [Data Management and Visualization](https://www.coursera.org/learn/data-visualization) by Wesleyan University - 4 weeks of study, 4-5 hours/week
+- [Social Computing](https://www.coursera.org/learn/social-computing) by University of California, San Diego - 3 weeks, 2-3 hours/week
   
 ### Research Methods & Project Planning
 
+- [Understanding Research Methods](https://www.coursera.org/learn/research-methods/home/info) by University of London & SOAS University of London - 4 weeks of study
 - [Social Norms, Social Change I](https://www.coursera.org/learn/norms) by University of Pennsylvania, Unicef, 4 weeks of study, 2-3 hours/week
 - [Social Norms, Social Change II](https://www.coursera.org/learn/change) by University of Pennsylvania, Unicef, 4 weeks of study, 2-3 hours of work per week
 - [Introduction to Environmental Law and Policy](https://www.coursera.org/learn/environmental-law) by The University of North Carolina at Chapel Hill - 6 weeks of study, 4-6 hours/week
 - [Citizen Engagement: A Game Changer for Development](https://www.edx.org/course/citizen-engagement-game-changer-wbgx-ce01x) by World Bank Group  - 5 weeks of study, 2-4 hours/week 
+- [U.Lab: Transforming Business, Society, and Self](https://courses.edx.org/courses/course-v1:MITx+15.671x+3T2015/info) by MITx - 8 weeks of study
 
+## Books
+
+- [Citizen-Driven Innovation](http://www.openlivinglabs.eu/sites/enoll.org/files/Citizen_Driven_Innovation_Full%284%29.pdf)
+
+## Articles
