@@ -8,7 +8,7 @@ My path to a free self-taught education in Smart Cities! *I will be adding pizza
 - [Courses](#courses)
 - [Books](#books)
 - [Articles](#articles)
-- [Capstone Project](#project)
+- [Capstone Project](#capstoneproject)
 
 ## About
 
