@@ -119,3 +119,5 @@ Also learning how to research and present an effective and persuasive position p
 - [Citizen-Driven Innovation](http://www.openlivinglabs.eu/sites/enoll.org/files/Citizen_Driven_Innovation_Full%284%29.pdf)
 
 ## Articles
+
+- [Co-Creating the Cities of the Future](http://www.mdpi.com/1424-8220/16/11/1971)
