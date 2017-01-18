@@ -33,7 +33,7 @@ Also learning how to research and present an effective and persuasive position p
 
 ### Principles of Sustainable Development
 
-- [Introduction to Sustainability](https://www.coursera.org/learn/sustainability/) by University of Illinois at Urbana-Champaign - 8 weeks of study, 8-10 hours/week
+- [Introduction to Sustainability](https://www.coursera.org/learn/sustainability/) by University of Illinois at Urbana-Champaign - 8 weeks of study, 8-10 hours/week :pizza:
 - [The Age of Sustainable Development](https://www.coursera.org/learn/sustainable-development) by Columbia University - 14 weeks of study, 2 hours of lectures per module
 - [Greening the Economy: Lessons from Scandinavia](https://www.coursera.org/learn/greening-the-economy) by Lund University - 5 weeks of study, 5-8 hours/week :pizza:
 - [Our Earth: Its Climate, History, and Processes](https://www.coursera.org/learn/our-earth) by University of Manchester - 5 weeks of study
