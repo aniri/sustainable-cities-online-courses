@@ -38,6 +38,10 @@ Also learning how to research and present an effective and persuasive position p
 - [Greening the Economy: Lessons from Scandinavia](https://www.coursera.org/learn/greening-the-economy) by Lund University - 5 weeks of study, 5-8 hours/week :pizza:
 - [Our Earth: Its Climate, History, and Processes](https://www.coursera.org/learn/our-earth) by University of Manchester - 5 weeks of study
 
+#### Optional
+
+- [Introduction to Environmental Law and Policy](https://www.coursera.org/learn/environmental-law) by the University of North Carolina at Chapel Hill - 6 weeks of study, 4-6 hours/week
+
 ### Introduction to Sustainable Smart Cities
 
 - [Smart cities](https://www.futurelearn.com/courses/smart-cities) by The Open University - 6 weeks of study, 3 hours/week :pizza:
