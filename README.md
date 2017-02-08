@@ -123,6 +123,7 @@ Also learning how to research and present an effective and persuasive position p
 
 - [Citizen-Driven Innovation](http://www.openlivinglabs.eu/sites/enoll.org/files/Citizen_Driven_Innovation_Full%284%29.pdf)
 - [Economic Foundations for Sustainable Urbanization](http://unhabitat.org/books/economic-foundations-for-sustainable-urbanization-a-study-on-three-pronged-approach-planned-city-extensions-legal-framework-and-municipal-finance/)
+- [Guiding Principles for City Climate Action Planning](http://unhabitat.org/books/guiding-principles-for-climate-city-planning-action/)
 
 ## Articles
 
