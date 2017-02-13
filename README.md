@@ -12,7 +12,7 @@ My path to a free self-taught education in Smart Cities! *I will be adding pizza
 
 ## About
 
-I looked online for free MOOCs that would offer a strong background for anyone interested in Smart cities. The structure is inspired from [The Dual Master’s in Sustainable Smart Cities](http://www.staffs.ac.uk/postgraduate/smartcities/programmedetails/) from the University of Alabama at Birmingham and Staffordshire University. I will continue to improve the list as I find new courses.
+I looked online for free MOOCs that would offer a strong background for anyone interested in Smart cities. The structure is inspired from [The Dual Master’s in Sustainable Smart Cities](https://www.uab.edu/smartcities/masters-program/program-details) from the University of Alabama at Birmingham and Staffordshire University. I will continue to improve the list as I find new courses.
 
 ## Preparation
 
