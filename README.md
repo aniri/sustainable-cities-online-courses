@@ -58,13 +58,14 @@ Also learning how to research and present an effective and persuasive position p
   
 ### Managing Natural Resources and Sustainable Smart Cities 
 
-- [Water Resources Management and Policy](https://www.coursera.org/learn/water-management) by University of Geneva - 5 weeks of study, 1-3 hours/week
+- [Livable Future Cities](https://courses.edx.org/courses/course-v1:ETHx+FC-02x+2T2016/info) - by ETH Zurich - 11 weeks of study
 - [Urban Water - Innovations for Environmental Sustainability](https://www.edx.org/course/urban-water-innovations-environmental-ubcx-water201x#.VPXUIVPF9vo) by University of British Columbia -  6 weeks of study, 3 - 4 hours/week
 - [Global Environmental Management](https://www.coursera.org/learn/global-environmental-management) by Technical University of Denmark (DTU) - 5 weeks of study
 - [Global Warming I: The Science and Modeling of Climate Change](https://www.coursera.org/learn/global-warming) by The University of Chicago - 12 weeks of study
 
 #### Optional
 
+- [Water Resources Management and Policy](https://www.coursera.org/learn/water-management) by University of Geneva - 5 weeks of study, 1-3 hours/week
 - [Sustainable Agricultural Land Management](https://www.coursera.org/learn/sustainable-agriculture) by University of Florida - 8 weeks of study
 - [Climate Change Mitigation in Developing Countries](https://www.coursera.org/learn/climate-change-mitigation) by University of Cape Town - 6 weeks of study, 1-3 hours/week
 - [Natural Attenuation of Groundwater Contaminants: New Paradigms, Technologies, and Applications](https://www.coursera.org/learn/natural-attenuation-of-groundwater-contaminants) by Rice University - 9 weeks of study
@@ -94,6 +95,7 @@ Also learning how to research and present an effective and persuasive position p
 
 - [Introduction to Metrics for Smart Cities](https://www.edx.org/course/introduction-metrics-smart-cities-ieeex-scmtx-1x#.VPXTolPF9vo) by IEEE - 4 weeks of study, 5 - 7 hours/week
 - [Future Cities](https://www.edx.org/course/future-cities-ethx-fc-01x-2#.VPXTtFPF9vo) by ETH Zurich  - 10 weeks of study, 3 hours per week 
+- [Smart Cities](https://courses.edx.org/courses/course-v1:ETHx+ETHx-FC-03x+1T2017/info) by ETH Zurich - 10 weeks of study
 - [Internet of Things: How did we get here?](https://www.coursera.org/learn/internet-of-things-history) by University of California, San Diego - 2 weeks of study, 2-3 hours/week
 - [A developer's guide to the Internet of Things ](https://www.coursera.org/learn/developer-iot/home/welcome) by IBM - 4 weeks of study
 
