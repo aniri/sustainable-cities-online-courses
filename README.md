@@ -45,7 +45,7 @@ Also learning how to research and present an effective and persuasive position p
 ### Introduction to Sustainable Smart Cities
 
 - [Smart cities](https://www.futurelearn.com/courses/smart-cities) by The Open University - 6 weeks of study, 3 hours/week :pizza:
-- [Greening the Economy: Sustainable Cities](https://www.coursera.org/learn/gte-sustainable-cities/) by Lund University - 5 weeks of study, 5 hours/week
+- [Greening the Economy: Sustainable Cities](https://www.coursera.org/learn/gte-sustainable-cities/) by Lund University - 5 weeks of study, 5 hours/week :pizza:
 - [Sustainable Urban Development](https://courses.edx.org/courses/course-v1:DelftWageningenX+AMS.URB.1x+1T2016/info) by Delft University of Technology - 7 weeks of study
 - [Cities are back in town : urban sociology for a globalizing urban world](https://www.coursera.org/learn/urban-development) by Sciences Po - 8 weeks of study
 
