@@ -73,7 +73,7 @@ Also learning how to research and present an effective and persuasive position p
 
 ### Green Infrastructure and Transportation
 
-- [Smart Cities – Management of Smart Urban Infrastructures](https://www.coursera.org/learn/smart-cities) by École Polytechnique Fédérale de Lausanne - 
+- [Smart Cities – Management of Smart Urban Infrastructures](https://www.coursera.org/learn/smart-cities) by École Polytechnique Fédérale de Lausanne - 5 weeks of study, 2-3 hours per week
 - [Management of Urban Infrastructures – part 1](https://www.coursera.org/learn/managing-urban-infrastructures-1) by École Polytechnique Fédérale de Lausanne - 5 weeks of study, 1-3 hours/week
 - [Planning & Design of Sanitation Systems and Technologies](https://www.coursera.org/learn/sanitation) by École Polytechnique Fédérale de Lausanne - 5 weeks of study, 4-6 hours/week
 - [Municipal Solid Waste Management in Developing Countries](https://www.coursera.org/learn/solid-waste-management) by École Polytechnique Fédérale de Lausanne - 5 weeks of study, 1-2 hours/week
