@@ -58,7 +58,7 @@ Also learning how to research and present an effective and persuasive position p
   
 ### Managing Natural Resources and Sustainable Smart Cities 
 
-- [Livable Future Cities](https://courses.edx.org/courses/course-v1:ETHx+FC-02x+2T2016/info) - by ETH Zurich - 11 weeks of study
+- [Livable Future Cities](https://courses.edx.org/courses/course-v1:ETHx+FC-02x+2T2016/info) - by ETH Zurich - 11 weeks of study :pizza:
 - [Urban Water - Innovations for Environmental Sustainability](https://www.edx.org/course/urban-water-innovations-environmental-ubcx-water201x#.VPXUIVPF9vo) by University of British Columbia -  6 weeks of study, 3 - 4 hours/week
 - [Global Environmental Management](https://www.coursera.org/learn/global-environmental-management) by Technical University of Denmark (DTU) - 5 weeks of study
 - [Global Warming I: The Science and Modeling of Climate Change](https://www.coursera.org/learn/global-warming) by The University of Chicago - 12 weeks of study
