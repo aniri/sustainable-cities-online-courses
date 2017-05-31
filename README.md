@@ -48,6 +48,7 @@ Also learning how to research and present an effective and persuasive position p
 - [Greening the Economy: Sustainable Cities](https://www.coursera.org/learn/gte-sustainable-cities/) by Lund University - 5 weeks of study, 5 hours/week :pizza:
 - [Sustainable Urban Development](https://courses.edx.org/courses/course-v1:DelftWageningenX+AMS.URB.1x+1T2016/info) by Delft University of Technology - 7 weeks of study
 - [Cities are back in town : urban sociology for a globalizing urban world](https://www.coursera.org/learn/urban-development) by Sciences Po - 8 weeks of study
+- [Sustainable Cities](https://courses.sdgacademy.org/learn/sustainable-cities-may-2017) by SDG Academy - 10 weeks of study
 
 ### Low Carbon and Renewable Energy Systems 
 
