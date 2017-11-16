@@ -71,6 +71,7 @@ Also learning how to research and present an effective and persuasive position p
 - [Climate Change Mitigation in Developing Countries](https://www.coursera.org/learn/climate-change-mitigation) by University of Cape Town - 6 weeks of study, 1-3 hours/week
 - [Natural Attenuation of Groundwater Contaminants: New Paradigms, Technologies, and Applications](https://www.coursera.org/learn/natural-attenuation-of-groundwater-contaminants) by Rice University - 9 weeks of study
 - [Shale gas and fracking](https://www.futurelearn.com/courses/shale-gas/2/todo/1576) by the University of Nottingham - 4 weeks of study
+- [A Circular Economy of Metals: Towards a Sustainable Societal Metabolism](https://www.coursera.org/learn/circular-economy-metals) by Universiteit Leiden - 6 weeks of study, 5-7 hours per week
 
 ### Green Infrastructure and Transportation
 
