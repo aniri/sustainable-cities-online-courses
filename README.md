@@ -49,6 +49,7 @@ Also learning how to research and present an effective and persuasive position p
 - [Sustainable Urban Development](https://courses.edx.org/courses/course-v1:DelftWageningenX+AMS.URB.1x+1T2016/info) by Delft University of Technology - 7 weeks of study
 - [Cities are back in town : urban sociology for a globalizing urban world](https://www.coursera.org/learn/urban-development) by Sciences Po - 8 weeks of study
 - [Sustainable Cities](https://courses.sdgacademy.org/learn/sustainable-cities-may-2017) by SDG Academy - 10 weeks of study
+- [Ecodesign for Cities and Suburbs](https://www.edx.org/course/ecodesign-cities-suburbs-ubcx-ecodesignx-0?utm_medium=social&utm_source=facebook&utm_campaign=ubcx%252Cecodesign-for-cities-suburbs%252Ccourse%252Capr82018) by University of British Columbia - 6 weeks of study
 
 ### Low Carbon and Renewable Energy Systems 
 
