@@ -80,6 +80,7 @@ Also learning how to research and present an effective and persuasive position p
 - [Management of Urban Infrastructures – part 1](https://www.coursera.org/learn/managing-urban-infrastructures-1) by École Polytechnique Fédérale de Lausanne - 5 weeks of study, 1-3 hours/week
 - [Planning & Design of Sanitation Systems and Technologies](https://www.coursera.org/learn/sanitation) by École Polytechnique Fédérale de Lausanne - 5 weeks of study, 4-6 hours/week
 - [Municipal Solid Waste Management in Developing Countries](https://www.coursera.org/learn/solid-waste-management) by École Polytechnique Fédérale de Lausanne - 5 weeks of study, 1-2 hours/week
+- [Sustainable Urban Freight Transport: A Global Perspective](https://online-learning.tudelft.nl/courses/sustainable-urban-freight-transport-a-global-perspective/) by TUDelft - 5 weeks of study, 4-6 hours per week
 
 ### Green Buildings
 
