@@ -8,6 +8,7 @@ My path to a free self-taught education in Smart Cities! *I will be adding pizza
 - [Courses](#courses)
 - [Books](#books)
 - [Articles](#articles)
+- [Research](#research)
 - [Capstone Project](#capstoneproject)
 
 ## About
@@ -131,10 +132,15 @@ Also learning how to research and present an effective and persuasive position p
 - [Economic Foundations for Sustainable Urbanization](http://unhabitat.org/books/economic-foundations-for-sustainable-urbanization-a-study-on-three-pronged-approach-planned-city-extensions-legal-framework-and-municipal-finance/)
 - [Guiding Principles for City Climate Action Planning](http://unhabitat.org/books/guiding-principles-for-climate-city-planning-action/)
 - [Science and the City: The Mechanics Behind the Metropolis](https://www.goodreads.com/book/show/28260428-science-and-the-city)
+- [Shaping cities](https://www.amazon.co.uk/Shaping-Cities-Urban-Ricky-Burdett/dp/071487728X)
 
 ## Articles
 
 - [Co-Creating the Cities of the Future](http://www.mdpi.com/1424-8220/16/11/1971)
+
+## Research
+
+- [Urban age](https://urbanage.lsecities.net/)
 
 ## Capstone Project
 
