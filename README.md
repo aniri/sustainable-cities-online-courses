@@ -82,15 +82,20 @@ Also learning how to research and present an effective and persuasive position p
 - [Planning & Design of Sanitation Systems and Technologies](https://www.coursera.org/learn/sanitation) by École Polytechnique Fédérale de Lausanne - 5 weeks of study, 4-6 hours/week
 - [Municipal Solid Waste Management in Developing Countries](https://www.coursera.org/learn/solid-waste-management) by École Polytechnique Fédérale de Lausanne - 5 weeks of study, 1-2 hours/week
 - [Sustainable Urban Freight Transport: A Global Perspective](https://online-learning.tudelft.nl/courses/sustainable-urban-freight-transport-a-global-perspective/) by TUDelft - 5 weeks of study, 4-6 hours per week
+- [Supply Chain Fundamentals](https://www.edx.org/course/supply-chain-fundamentals) by MIT
+- [Supply Chain Analytics](https://www.edx.org/course/supply-chain-analytics) by MIT
+- [Leveraging Urban Mobility Disruptions to Create Better Cities](https://www.edx.org/course/leveraging-urban-mobility-disruptions-to-create-better-cities) by MIT
 
 ### Green Buildings
 
 - [Resilient Architecture Research](https://www.ooed.org/learn/resilient-architecture-research-fall-2014) by Open Online Academy
+- [Sustainable Building Design](https://www.edx.org/course/environmental-technologies-in-buildings) by MIT
  
 ### Health & Liveability
 
 - [Community Change in Public Health](https://www.coursera.org/learn/community-public-health) by Johns Hopkins University - 5 weeks of study, 1-3 hours/week
 - [Climate Change and Health](https://iversity.org/en/courses/climate-change-and-health) by Heidelberg University - 5 weeks of study
+- [Global Warming Science](https://www.edx.org/course/global-warming-science) by MIT
 
 #### Optional
 
